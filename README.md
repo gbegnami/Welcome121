@@ -9,6 +9,6 @@
 - ⚡ Fun fact: i love to know new things and places;
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Welcome121&show_icons=true&theme=radical&hide_title=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Welcome121&show_icons=true&theme=radical&hide_title=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Welcome121&layout=compact&theme=radical)
   
