@@ -2,7 +2,7 @@
 ### <h1>Hii! My name is Gabriel Benvindo Begnami, nice to meet you.</h1>
 <h3>A feel things about me:</h3>
 
-- 🔭 I’m currently working on <a href="https://www.inoviacorp.com/" target="_blank" rel="noopener noreferrer">Inovia</a>;
+- 🔭 I’m currently working @ <a href="https://www.inoviacorp.com/" target="_blank" rel="noopener noreferrer">Inovia</a>;
 - 🌱 I’m Systems Development student;
 - 📫 How to reach me: gabrielbegnami1@gmail.com;
 - 😄 Pronouns: he/him;
